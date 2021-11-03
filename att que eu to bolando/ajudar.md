@@ -1,0 +1,1 @@
+╭───「 💰 *Doação de ajuda* 💰 」\n│\n│  _Como fazer para doar?_\n│\n│ 🙈 ➔ *Pix:* Chave do pix\n│\n│ ☘ ➔ *Mercado Pago: Conta do MP* \n│\n│ 🧊 ➔ *Paypal: Conta do Paypal* \n│ \n│\n│\n│  _*Obrigado por doar*_ 🖤 \n╰───────────────────\n

@@ -1,0 +1,32 @@
+/*
+{
+	"Language": "pt",
+	"Owner": ["5519999897566@c.us", "Número 2 - Opcional@c.us"],
+	"DDI": "55",
+	"Prefix": "/",
+	"API_NoFlash": "https://api.apiflash.com/v1/urltoimage?access_key=256de4d3e8d84c9197de965d104df133&url=http://google.com",
+	"API_RemoveBG": "k1f2nVREvmYVXfBjCE9S6D21",
+	"API_WallHaven": "jLwpz2OFBiRMqHru33pwFtxrVfuUPfXE",
+	"API_DeepAI": "af3c3a08-8f04-4385-9673-6a8356cd2cdf",
+	"Max_Groups": "99",
+	"Min_Membros": "1",
+	"Sticker_Author": "📁 Peppy - Bot - Whatsapp ",
+	"Sticker_Pack": "🎱 +55 35 99731-6708 🖤",
+	"User_Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"Wait_to_Play": "5",
+	"Anti_Flood": "10",
+	"Max_Download_Size": "16",
+	"Wait_to_Win": "60",
+	"API_TheMovieDB": "e47b1194a05b5beff7ad615b74b8e020",
+	"API_NASA": "xdyeHxusofDIxx4GeaEwARCgHW7wBM9ghmEfiW9D",
+	"Max_XP_Earn": "50",
+	"Min_XP_Earn": "15",
+	"Iris_Coin": "10",
+	"Max_Steal": "3000",
+	"Acr_Host": "identify-eu-west-1.acrcloud.com",
+	"Acr_Access": "8c60b0441d4aeffb786c74c426a9a26c",
+	"Acr_Secret": "Ne2W9apaEs12dWQDJ5KCkAvet4aTzcUuW2qjOjq4",
+	"Max_Characters": "5000",
+	"XP_Difficulty": "5"
+}
+*/
